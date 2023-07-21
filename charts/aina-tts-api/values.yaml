@@ -1,0 +1,6 @@
+global:
+  namespace: apps
+
+api:
+  image: bsctemu/aina-tts-api
+  tag: latest
